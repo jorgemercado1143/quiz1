@@ -1,0 +1,10 @@
+1) la diferencia area de trabajo que se puede ver en el catálogo de la computadora y directorio de git tiene un espacio de trabajo tiene un .git directorio oculto, este no es el área de trabajo, pero repositorio Git.
+2)
+3)el proposito para comprender realmente la forma en que Git realiza ramificaciones.
+4)github son repositorios publicos y gitlab son repositorios privados
+5)11C y 11G
+6)se nececesita la imegen de docker para poder ejecutar el entorno de conexion
+7)Atomicidad: Si cuando una operación consiste en una serie de pasos, bien todos ellos se ejecutan o bien ninguno, es decir, las transacciones son completas.
+Consistencia: (Integridad). Es la propiedad que asegura que sólo se empieza aquello que se puede acabar. Por lo tanto se ejecutan aquellas operaciones que no van a romper las reglas y directrices de Integridad de la base de datos. 
+Aislamiento: Esta propiedad asegura que una operación no puede afectar a otras. Esto asegura que la realización de dos transacciones sobre la misma información sean independientes y no generen ningún tipo de error. 
+Durabilidad: (Persistencia). Esta propiedad asegura que una vez realizada la operación, esta persistirá y no se podrá deshacer aunque falle el sistema y que de esta forma los datos sobrevivan de alguna manera.
